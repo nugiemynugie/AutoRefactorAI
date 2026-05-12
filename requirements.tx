@@ -1,0 +1,6 @@
+crewai>=0.80.0
+crewai-tools
+langchain-openai
+langchain-community
+pydantic
+python-dotenv
